@@ -1,0 +1,29 @@
+BaseShield Size:
+comprimento- ~7cm
+largura- 3cm
+altura- 5.5cm
+
+muro 1:
+comprimento- 60cm
+largura- 5.5cm
+altura- 7cm
+
+muro 2:
+comprimento- ~12cm
+largura- 5.5cm
+altura- 7cm
+
+pilar 1:
+comprimento- 5.5cm
+largura- 5.5cm
+altura- ~8cm
+
+pilar 2:
+comprimento- 5.5cm
+largura- 5.5cm
+altura- ~8cm
+ 
+pilar 3:
+comprimento- 5.5cm
+largura- 5.5cm
+altura- ~8cm
